@@ -1,3 +1,4 @@
+   <img src="https://s3.us-east-2.amazonaws.com/gobarber-img/logo.svg" height = "150"/>
 
 
 # APP GOBARBER
@@ -22,5 +23,25 @@
   - Após, executar `yarn start`.
   
   ### SCREENSHOTS:
+  - Tela Inicial
+  <img src="https://s3.us-east-2.amazonaws.com/gobarber-img/1.png" height = "400" width = "400" />
+
+  -  Cadastro
+  <img src="https://s3.us-east-2.amazonaws.com/gobarber-img/Screenshot_8.png" height = "500" width = "400" />
   
+   - Tela de escolha de profissional(User)
+  <img src="https://s3.us-east-2.amazonaws.com/gobarber-img/2.png" height = "500" width = "400" />
   
+   - Tela de horários e profissionais e agendamento
+   <img src="https://s3.us-east-2.amazonaws.com/gobarber-img/Screenshot_5.png" height = "600" width = "400" />
+  
+   #### Telas do prestador de serviços :
+   
+   - Dashboard principal
+   <img src="https://s3.us-east-2.amazonaws.com/gobarber-img/Screenshot_9.png" height = "400" width = "400" /> 
+   
+   - Clientes do dia
+   <img src="https://s3.us-east-2.amazonaws.com/gobarber-img/Screenshot_6.png" height = "400" width = "400" /> 
+    
+    
+    
