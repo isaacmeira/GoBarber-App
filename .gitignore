@@ -1,3 +1,9 @@
+﻿node_modules/
+
+
+# pasta com as fotos dos usuários
+tmp/uploads/*
+tmp/sessions.db
 # Logs
 logs
 *.log
